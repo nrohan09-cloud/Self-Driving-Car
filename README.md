@@ -10,4 +10,4 @@ The code and model used by my team for autonomous control in the self-driving-ca
 You can use `pip install -r requirements.txt` to install all the dependencies.
 
 # Credits 
-The [simulator](https://github.com/udacity/self-driving-car-sim) used was developed by udacity. The model was take from [this NVIDIA paper](https://arxiv.org/abs/1604.07316).
+The [simulator](https://github.com/udacity/self-driving-car-sim) used was developed by udacity. The model was taken from [this NVIDIA paper](https://arxiv.org/abs/1604.07316).
